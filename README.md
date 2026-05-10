@@ -1,5 +1,5 @@
-# Bayesian-auditory-localization-with-explicit-cue-weighting
+# Explicit-cue-weighting-in-a-Bayesian-model-of-auditory-localization
 This repository contains the code for the paper:
-"Bayesian auditory localization with explicit cue weighting: Estimating the differential contributions of binaural and spectral cues in spatial-hearing judgments"
+"Explicit cue weighting in a Bayesian model of auditory localization: Quantifying the differential contributions of binaural and spectral cues"
 
 Code will be released soon.
